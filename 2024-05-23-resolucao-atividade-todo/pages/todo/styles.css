@@ -91,3 +91,9 @@ li p {
   white-space: pre-wrap;
   margin-top: 10px;
 }
+.edita {
+  float: right;
+  background: #676767;
+  border-radius: 5px;
+ 
+}
